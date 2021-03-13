@@ -5,11 +5,15 @@
 </p>
 
 
-
-
 ### Hi there 👋
 
-I'm Allan. I'm UBC CS grad and a SFU Econ grad. This github is just a collection of things I've made in the pass.
+I'm Allan. I'm UBC CS grad and a SFU Econ grad. This github is just a collection of things I've made in the pass. I really enjoy laerning ML / Data and Security. In my spear time I love reading networking forums and testing out Linux distributions. Another hobbie of my is hacking / breaking video games. I like writing small scripts to automated my video game character. 
+
+The best way to reach is 
+
+<!-- allanleung1018 at popular google email service . com  -->
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanleung)](https://github.com/anuraghazra/github-readme-stats)
 
