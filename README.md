@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-I'm Allan. I'm UBC CS grad and a SFU Econ grad. This github is just a collection of things I've made in the pass. I really enjoy laerning ML / Data and Security. In my spear time I love reading networking forums and testing out Linux distributions. Another hobbie of my is hacking / breaking video games. I like writing small scripts to automated my video game character. 
+I'm Allan. I'm UBC CS grad and a SFU Econ grad. This github is just a collection of things I've made in the pass. I really enjoy laerning ML / Data and Security. In my spear time I love reading networking forums and testing out Linux distributions. Another hobbie of my is hacking / breaking video games. I like writing small scripts to automated my video game character. When I'm not developing and building things, you can find me watching things on YouTube, reading philosophy books, watching documentary or listening to some nerdy economics podcast. 
 
 Currently I'm working on setting up learning Haskell beacause I want to understand more on functional programming. 
 
