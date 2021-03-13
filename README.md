@@ -11,8 +11,7 @@ I'm Allan. I'm UBC CS grad and a SFU Econ grad. This github is just a collection
 
 The best way to reach is 
 
-<!-- allanleung1018 at popular google email service . com  -->
-
+>! Spoiler text allanleung1018 at popular google email service . com 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanleung)](https://github.com/anuraghazra/github-readme-stats)
