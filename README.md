@@ -7,12 +7,14 @@
 
 ### Hi there 👋
 
-I'm Allan. I'm UBC CS grad and a SFU Econ grad. This github is just a collection of things I've made in the pass. I really enjoy learning ML / Data and Security. In my spear time I love reading networking forums and testing out Linux distributions. Another hobbie of my is hacking / breaking video games. I like writing small scripts in C / Python to automated my video game character (Without breaking their TOS of course! 😬). When I'm not developing and building things, you can find me watching things on YouTube, reading philosophy books, watching documentary or listening to some nerdy economics podcast. 
+💬 Ask me about
 
-Currently I'm learning Haskell beacause I want to understand more on functional programming. 
+I'm Allan. I'm UBC CS grad and a SFU Econ grad. This github is just a collection of things I've made in the pass. I enjoy writing in Python and TypeScript. I like writing scripts / mini hacking for video games (the ones without much security). I like to poke around Linux distribution and learn about Ethical hacking. When I'm not developing and building things, you can find me watching things on YouTube, reading philosophy books, watching documentary or listening to some nerdy economics podcast. 
 
-
-The best way to reach is Linkedin. 
+🌱 I’m currently learning Haskell andthe Lua scripting language
+📫 How to reach me: Linkedin
+😄 Pronouns: He
+⚡ Fun fact: I'm a different person with a camera
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanleung)](https://github.com/anuraghazra/github-readme-stats)
