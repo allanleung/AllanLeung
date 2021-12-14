@@ -19,11 +19,9 @@ I'm Allan. I'm UBC CS grad and a SFU Econ grad. This github is just a collection
 
 ⚡ Fun fact: I like reading random medium post and things. 
 
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanleung)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
 **allanleung/AllanLeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
