@@ -11,11 +11,11 @@
 
 I'm Allan. I'm UBC CS grad and a SFU Econ grad. This github is just a collection of things I've made in the pass. I enjoy writing in Python and TypeScript. I like writing scripts / mini hacking for video games (the ones without much security). I like to poke around Linux distribution and learn about Ethical hacking. When I'm not developing and building things, you can find me watching things on YouTube, reading philosophy books, watching documentary or listening to some nerdy economics podcast. 
 
-🌱 I’m currently learning cyber security on my own time. 
+🌱 I’m currently learning ... 
 
 📫 How to reach me: Linkedin
 
-😄 Pronouns: He
+😄 Pronouns: He/Him
 
 ⚡ Fun fact: I like reading random medium post and things. 
 
