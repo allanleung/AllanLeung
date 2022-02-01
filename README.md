@@ -6,7 +6,36 @@
 
 
 ### Hi there 👋
+```json
+{
+  "name": "Allan Leung",
+  "pronouns": "he/him",
+  "currentRole": "Software Developer 📱",
+  "education": "UBC BS Comp Sci & SFU BA Econ + SAIT",
+  "favoriteLanguages": [
+    "TypeScript",
+    "Python",
+    "Ruby",
+  ],
+  "interests": [
+    "Software Development",
+    "Full-Stack Development",
+    "Machine Learning",
+    "Cyber Security"
+  ],
+  "hobbies": [
+    "Badminton 🏸",
+    "Exercising 💓",
+    "Investing in Crypto 💲",
+    "Photography 📷"
+  ],
+  "funFact": "I'm like philosphy"
+}
+```
 
+
+
+<!--
 💬 Ask me about
 
 I'm Allan. I'm UBC CS grad and a SFU Econ grad. This github is just a collection of things I've made in the pass. I enjoy writing in Python and TypeScript. I like writing scripts / mini hacking for video games (the ones without much security). I like to poke around Linux distribution and learn about Ethical hacking. When I'm not developing and building things, you can find me watching things on YouTube, reading philosophy books, watching documentary or listening to some nerdy economics podcast. 
@@ -19,7 +48,7 @@ I'm Allan. I'm UBC CS grad and a SFU Econ grad. This github is just a collection
 
 ⚡ Fun fact: I like reading random medium post and things. 
 
-<!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanleung)](https://github.com/anuraghazra/github-readme-stats)
 
 **allanleung/AllanLeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
