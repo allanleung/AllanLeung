@@ -18,15 +18,13 @@
     "Ruby",
   ],
   "interests": [
-    "Software Development",
-    "Full-Stack Development",
+    "Mobile Development",
     "Machine Learning",
     "Cyber Security"
   ],
   "hobbies": [
     "Badminton 🏸",
     "Exercising 💓",
-    "Investing in Crypto 💲",
     "Photography 📷"
   ],
   "funFact": "I'm like philosphy"
