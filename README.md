@@ -12,10 +12,12 @@
   "pronouns": "he/him",
   "currentRole": "Software Developer 📱",
   "education": "UBC BS Comp Sci & SFU BA Econ + SAIT",
-  "favoriteLanguages": [
+  "favoriteLanguagesInOrder": [
     "TypeScript",
     "Python",
     "Ruby",
+    "Java",
+    "Swift",
   ],
   "interests": [
     "Mobile Development",
@@ -27,7 +29,7 @@
     "Exercising 💓",
     "Photography 📷"
   ],
-  "funFact": "I'm like philosphy"
+  "funFact": "I like philosphy"
 }
 ```
 
