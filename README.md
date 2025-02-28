@@ -17,7 +17,13 @@
     "Python",
     "Ruby",
     "Java",
+    "Swift"
+  ],
+  "favoriteTechStack": [
+    "React Native",
+    "React",
     "Swift",
+    "Kotlin"
   ],
   "interests": [
     "Mobile Development",
